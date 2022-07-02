@@ -7,4 +7,4 @@ receivers:
       - send_resolved: true
         username: "alert_manager"
         channel: "#prometheus"
-        api_url: "https://hooks.slack.com/services/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"
+        api_url: "https://hooks.slack.com/services/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"
